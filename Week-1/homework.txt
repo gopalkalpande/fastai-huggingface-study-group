@@ -1,0 +1,10 @@
+Homework
+
+1. Read the Attention Is All You Need paper (and Jay Alammar’s “The Illustrated Transformer”)
+
+
+2. Read the BERT paper (and Jay Alammar’s “The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)”)
+
+
+3. Get acquainted with one or more of the fastai Hugging Face libraries; see if you can build a basic classification model of some sort
+
